@@ -1,2 +1,2 @@
 ### Machine Learning 
-Homework assignments for the machine learning course by Andre Ng on Coursera.
+Homework assignments for the machine learning course by Andrew Ng on Coursera.
